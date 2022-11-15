@@ -1,2 +1,2 @@
 #!/bin/sh
- exec java -jar "/root/Tachidesk/tachidesk_latest.jar"
+ exec java -jar "/suwayomi/Tachidesk/tachidesk_latest.jar"
